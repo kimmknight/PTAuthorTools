@@ -25,9 +25,3 @@ More features are in development.
 Once installed, you can access all features from the **Extensions** menu:
 
 ![image](https://github.com/user-attachments/assets/bbcae67b-3d8e-4c9b-aa09-da50f068fe68)
-
-# Configuration
-
-By default devices align to a 100x100 grid, shapes to a 50x50 grid, and notes to a 15x15 grid.
-
-You can adjust these values by opening **Extensions** > **AlignToGrid Settings...**
